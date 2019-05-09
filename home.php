@@ -17,6 +17,17 @@ $favModels = array (
 );
 
 
+//Object
+class crewCAb {
+var $drive = 4;
+var $wheels = 6;
+var $engine = "454";
+
+
+};
+
+$chassis = new crewCab;
+
 
 
 ?>
